@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Alexander Denker and I am a PhD student at the University of Bremen. My research interest include the application of deep learning method for inverse problems. 
-
-I am studying how to enforce mathematical properties into neural networks.
+My name is Alexander Denker and I am a post doctoral research associate at the University College London. I completed my PhD at the University of Bremen supervised by Peter Maass. During my PhD, I worked on the application of generative models to inverse problems in imaging. My research interest include generative modeling, in particular normalising flows and diffusion models, image reconstruction and machine learning.

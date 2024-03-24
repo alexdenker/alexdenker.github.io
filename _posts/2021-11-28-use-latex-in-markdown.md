@@ -4,6 +4,7 @@ title:  "How to use mathjax in jekyll"
 date:   2021-11-28 11:21:47 +0100
 categories: latex
 usemathjax: true
+published: false
 ---
 
 I followed this [tutorial](http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html).
