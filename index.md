@@ -9,3 +9,11 @@ layout: home
 ---
 
 My name is Alexander Denker and I am a post doctoral research associate at the University College London. 
+
+## Research Interests
+
+## Background
+
+**2017-2020** M.Sc. Mathematics. My master thesis, supervised by Peter Maass and Jens Behrmann, was about conditional normalising flows. 
+
+**2020-2024** PhD student in deep learning and inverse problems at the University of Bremen. 
