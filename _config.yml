@@ -1,9 +1,9 @@
 title: Alexander Denker
 author:
   name: Alexander Denker
-  email: adenker@uni-bremen.de
+#  email: a.denker@uni-bremen.de
 description: > # this means to ignore newlines until "show_excerpts:"
-  I am a PhD student at the University of Bremen and are interesting in applications of deep learning for inverse problems.
+  I am a post doctoral researcher at the University College London and are interesting in applications of deep learning for inverse problems.
   
 show_excerpts: false # set to true to show excerpts on the homepage
 
