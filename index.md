@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Hey, my name is Alex and I am a PhD student at the University of Bremen.
+My name is Alexander Denker and I am a post doctoral research associate at the University College London. 
