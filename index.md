@@ -11,6 +11,8 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2024
 
+Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://www.arxiv.org/abs/2412.02548), preprint. 
+
 Denker A, Vargas F, Padhy S, Didi K, Mathis S, Dutordoir V, Barbano R, Mathieu E, Komorowska U, Lio P [*DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised h-transform*](https://arxiv.org/abs/2406.01781). Accepted at Neurips 2024.
 
 Denker A, Kereta Z, Singh I, Freudenberg T, Kluth T, Maass P, Arridge S [*Data-driven approaches for electrical impedance tomography image segmentation from partial boundary data*](https://www.aimsciences.org/article/doi/10.3934/ammc.2024005). Applied Mathematics for Modern Challenges, 2024, 2(2): 119-139. doi: 10.3934/ammc.2024005
