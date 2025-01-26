@@ -9,6 +9,11 @@ I am a post doctoral research associate at University College London within the 
 
 ## Publications 
 
+### 2025
+
+Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction*](https://ieeexplore.ieee.org/abstract/document/10829716). IEEE Transactions on Medical Imaging.
+
+
 ### 2024
 
 Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://www.arxiv.org/abs/2412.02548), preprint. 
@@ -33,8 +38,6 @@ Arndt C, Denker A, Dittmer S, Heilenkötter N, Iske M, Kluth T, Maass P, Nickel 
 Arndt C, Denker A, Nickel J, Leuschner J, Schmidt M, Rigaud G [*In Focus-hybrid deep learning approaches to the HDC2021 challenge*](https://www.aimsciences.org/article/doi/10.3934/ipi.2022061).  Inverse Problems & Imaging 17.5 (2023).
 
 Altekr{\"u}ger F, Denker A, Hagemann P, Hertrich J, Maass P, Steidl G [*PatchNR: learning from very few images by patch normalizing flow regularization*](https://iopscience.iop.org/article/10.1088/1361-6420/acce5e). Inverse Problems 39.6 (2023): 064006.
-
-Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable conditional diffusion for out-of-distribution adaptation in imaging inverse problems*](https://arxiv.org/abs/2308.14409). Preprint.
 
 ### 2022
 
