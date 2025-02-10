@@ -11,6 +11,8 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2025
 
+Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), preprint.
+
 Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction*](https://ieeexplore.ieee.org/abstract/document/10829716). IEEE Transactions on Medical Imaging.
 
 
@@ -37,7 +39,7 @@ Arndt C, Denker A, Dittmer S, Heilenkötter N, Iske M, Kluth T, Maass P, Nickel 
 
 Arndt C, Denker A, Nickel J, Leuschner J, Schmidt M, Rigaud G [*In Focus-hybrid deep learning approaches to the HDC2021 challenge*](https://www.aimsciences.org/article/doi/10.3934/ipi.2022061).  Inverse Problems & Imaging 17.5 (2023).
 
-Altekr{\"u}ger F, Denker A, Hagemann P, Hertrich J, Maass P, Steidl G [*PatchNR: learning from very few images by patch normalizing flow regularization*](https://iopscience.iop.org/article/10.1088/1361-6420/acce5e). Inverse Problems 39.6 (2023): 064006.
+Altekrueger F, Denker A, Hagemann P, Hertrich J, Maass P, Steidl G [*PatchNR: learning from very few images by patch normalizing flow regularization*](https://iopscience.iop.org/article/10.1088/1361-6420/acce5e). Inverse Problems 39.6 (2023): 064006.
 
 ### 2022
 
