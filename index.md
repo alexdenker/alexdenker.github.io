@@ -11,7 +11,7 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2025
 
-Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), preprint.
+Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), ICLR Workshop Frontiers in Probabilistic Inference: Sampling meets Learning.
 
 Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction*](https://ieeexplore.ieee.org/abstract/document/10829716). IEEE Transactions on Medical Imaging.
 
