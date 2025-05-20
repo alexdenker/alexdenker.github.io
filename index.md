@@ -11,6 +11,8 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2025
 
+Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_21), SSVM 2025, doi: 10.1007/978-3-031-92366-1_21. 
+
 Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), ICLR Workshop Frontiers in Probabilistic Inference: Sampling meets Learning.
 
 Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction*](https://ieeexplore.ieee.org/abstract/document/10829716). IEEE Transactions on Medical Imaging.
@@ -18,12 +20,9 @@ Barbano R, Denker A, Chung H, Roh T, Arridge S, Maass P, Jin B, Ye J [*Steerable
 
 ### 2024
 
-Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://www.arxiv.org/abs/2412.02548), preprint. 
-
 Denker A, Vargas F, Padhy S, Didi K, Mathis S, Dutordoir V, Barbano R, Mathieu E, Komorowska U, Lio P [*DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised h-transform*](https://arxiv.org/abs/2406.01781). Accepted at Neurips 2024.
 
 Denker A, Kereta Z, Singh I, Freudenberg T, Kluth T, Maass P, Arridge S [*Data-driven approaches for electrical impedance tomography image segmentation from partial boundary data*](https://www.aimsciences.org/article/doi/10.3934/ammc.2024005). Applied Mathematics for Modern Challenges, 2024, 2(2): 119-139. doi: 10.3934/ammc.2024005
-
 
 Denker A, Behrmann J, Boskamp T [*Improved Mass Calibration in MALDI MSI Using Neural Network-Based Recalibration*](https://pubs.acs.org/doi/full/10.1021/acs.analchem.4c00304). Analytical Chemistry 96.19 (2024): 7542-7549.
 
