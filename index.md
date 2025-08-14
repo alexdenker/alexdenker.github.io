@@ -11,6 +11,8 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2025
 
+Denker A, Margotti F, Ning J, Knudsen K, Nganyu Tanyu D, Jin B, Hauptmann A, Maass P [*Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography*](https://arxiv.org/abs/2508.06281), preprint. 
+
 Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_21), SSVM 2025, doi: 10.1007/978-3-031-92366-1_21. 
 
 Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), ICLR Workshop Frontiers in Probabilistic Inference: Sampling meets Learning.
