@@ -11,9 +11,11 @@ I am a post doctoral research associate at University College London within the 
 
 ### 2025
 
-Tudosie S, Denker A, Kereta Z, Arridge S [*Learning Binary Sampling Patterns for Single-Pixel Imaging using Bilevel Optimisation*](https://arxiv.org/abs/2508.19068), preprint.
+Hertrich J, Wong H, Denker A, Ducotterd S, Fang Z, Haltmeier M, Kereta Z, Kobler E, Leong O, Salehi M, Schönlieb CB, Schwab J, Shumaylov Z, Sulam J, Wache G, Zach M, Zhang Y, Ehrhardt M, Neumayer S [*Learning Regularization Functionals for Inverse Problems: A Comparative Study*](https://arxiv.org/abs/2510.01755), preprint.
 
-Denker A, Margotti F, Ning J, Knudsen K, Nganyu Tanyu D, Jin B, Hauptmann A, Maass P [*Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography*](https://arxiv.org/abs/2508.06281), preprint. 
+Tudosie S, Denker A, Kereta Z, Arridge S [*Learning Binary Sampling Patterns for Single-Pixel Imaging using Bilevel Optimisation*](https://arxiv.org/abs/2508.19068), accepted (oral) at L2S Workshop at NeurIPS 2025.
+
+Denker A, Margotti F, Ning J, Knudsen K, Nganyu Tanyu D, Jin B, Hauptmann A, Maass P [*Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography*](https://www.sciencedirect.com/science/article/pii/S1570865925000031), Handbook of Numerical Analysis. 
 
 Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_21), SSVM 2025, doi: 10.1007/978-3-031-92366-1_21. 
 
