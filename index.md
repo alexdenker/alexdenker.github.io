@@ -9,7 +9,15 @@ I am a post doctoral research associate at University College London within the 
 
 ## Publications 
 
+### 2026 
+
+Baker E, Denker A, Frellsen J [*Supervised Guidance Training for Infinite-Dimensional Diffusion Models*](https://arxiv.org/pdf/2601.20756), preprint.
+
 ### 2025
+
+Shah K, Lioliou G, Chen D, Denker A, Munro P, Endrizzi M, Astolfo A, Olivo A, Hagen C K [*Application of Noise2Inverse and adaptation (Noise2Phase) to single‐mask x‐ray phase contrast micro‐computed tomography*](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.70056), Journal of Microscopy, 2025.
+
+Lauga W, Rowbottom J, Denker A, Kereta Z, Eliasof M, Schönlieb C-B [*Graph Neural Regularizers for PDE Inverse Problems*](https://arxiv.org/abs/2510.21012), DiffSys @ Eurips 2025.
 
 Hertrich J, Wong H, Denker A, Ducotterd S, Fang Z, Haltmeier M, Kereta Z, Kobler E, Leong O, Salehi M, Schönlieb CB, Schwab J, Shumaylov Z, Sulam J, Wache G, Zach M, Zhang Y, Ehrhardt M, Neumayer S [*Learning Regularization Functionals for Inverse Problems: A Comparative Study*](https://arxiv.org/abs/2510.01755), preprint.
 
