@@ -15,6 +15,10 @@ Baker E, Denker A, Frellsen J [*Supervised Guidance Training for Infinite-Dimens
 
 Webber G, Denker A, Barbano R, Reader A J [*Solving Inverse Problems with Flow-based Models via Model Predictive Control*](https://www.arxiv.org/abs/2601.23231), preprint.
 
+Denker A, Eliasof M, Kereta Z, Schönlieb CB [*Trajectory Stitching for Solving Inverse Problems with Flow-Based Models*](https://arxiv.org/abs/2602.08538), preprint. 
+
+Barbano R, Denker A, Kereta Z, Li R, Vargas F [*CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control*](https://arxiv.org/abs/2602.10933), preprint.
+
 ### 2025
 
 Shah K, Lioliou G, Chen D, Denker A, Munro P, Endrizzi M, Astolfo A, Olivo A, Hagen C K [*Application of Noise2Inverse and adaptation (Noise2Phase) to single‐mask x‐ray phase contrast micro‐computed tomography*](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.70056), Journal of Microscopy, 2025.
