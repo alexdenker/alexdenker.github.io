@@ -17,7 +17,7 @@ Webber G, Denker A, Barbano R, Reader A J [*Solving Inverse Problems with Flow-b
 
 Denker A, Eliasof M, Kereta Z, Schönlieb CB [*Trajectory Stitching for Solving Inverse Problems with Flow-Based Models*](https://arxiv.org/abs/2602.08538), preprint. 
 
-Barbano R, Denker A, Kereta Z, Li R, Vargas F [*CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control*](https://arxiv.org/abs/2602.10933), preprint.
+Barbano R, Denker A, Kereta Z, Li R, Vargas F [*CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control*](https://openreview.net/forum?id=XJto8p5maC), ReALM-GEN 2026 - ICLR 2026 Workshop.
 
 ### 2025
 
@@ -25,11 +25,11 @@ Shah K, Lioliou G, Chen D, Denker A, Munro P, Endrizzi M, Astolfo A, Olivo A, Ha
 
 Lauga W, Rowbottom J, Denker A, Kereta Z, Eliasof M, Schönlieb C-B [*Graph Neural Regularizers for PDE Inverse Problems*](https://arxiv.org/abs/2510.21012), DiffSys @ Eurips 2025.
 
-Hertrich J, Wong H, Denker A, Ducotterd S, Fang Z, Haltmeier M, Kereta Z, Kobler E, Leong O, Salehi M, Schönlieb CB, Schwab J, Shumaylov Z, Sulam J, Wache G, Zach M, Zhang Y, Ehrhardt M, Neumayer S [*Learning Regularization Functionals for Inverse Problems: A Comparative Study*](https://arxiv.org/abs/2510.01755), preprint.
+Hertrich J, Wong H, Denker A, Ducotterd S, Fang Z, Haltmeier M, Kereta Z, Kobler E, Leong O, Salehi M, Schönlieb CB, Schwab J, Shumaylov Z, Sulam J, Wache G, Zach M, Zhang Y, Ehrhardt M, Neumayer S [*Learning Regularization Functionals for Inverse Problems: A Comparative Study*](https://doi.org/10.1016/bs.hna.2026.04.001), Handbook of Numerical Analysis.
 
 Tudosie S, Denker A, Kereta Z, Arridge S [*Learning Binary Sampling Patterns for Single-Pixel Imaging using Bilevel Optimisation*](https://arxiv.org/abs/2508.19068), accepted (oral) at L2S Workshop at NeurIPS 2025.
 
-Denker A, Margotti F, Ning J, Knudsen K, Nganyu Tanyu D, Jin B, Hauptmann A, Maass P [*Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography*](https://www.sciencedirect.com/science/article/pii/S1570865925000031), Handbook of Numerical Analysis. 
+Denker A, Margotti F, Ning J, Knudsen K, Nganyu Tanyu D, Jin B, Hauptmann A, Maass P [*Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography*](https://www.sciencedirect.com/science/article/pii/S1570865925000031), Handbook of Numerical Analysis - Machine Learning Solutions for Inverse Problems: Part A. 
 
 Denker A, Hertrich J, Kereta Z, Cipiccia S, Erin E, Arridge S [*Plug-and-Play Half-Quadratic Splitting for Ptychography*](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_21), SSVM 2025, doi: 10.1007/978-3-031-92366-1_21. 
 
