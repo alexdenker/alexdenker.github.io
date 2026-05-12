@@ -4,20 +4,26 @@ layout: default
 
 ## About me
 
-I am a post doctoral research associate at University College London within the [Maths4DL project](https://maths4dl.ac.uk/team-member/alexander-denker). I completed my PhD at the University of Bremen supervised by Peter Maass. During my PhD, I worked on the application of generative models to inverse problems in imaging. My research interest include generative modeling, in particular normalising flows and diffusion models, image reconstruction and machine learning.
+I am a post doctoral researcher at DESY working with Martin Burger. Previously, I was a post doctoral research associate at University College London within the [Maths4DL project](https://maths4dl.ac.uk/team-member/alexander-denker). I completed my PhD at the University of Bremen supervised by Peter Maass. During my PhD, I worked on the application of generative models to inverse problems in imaging. My research interest include generative modeling, in particular normalising flows and diffusion models, image reconstruction and machine learning.
 
 
 ## Publications 
 
 ### 2026 
 
-Baker E, Denker A, Frellsen J [*Supervised Guidance Training for Infinite-Dimensional Diffusion Models*](https://arxiv.org/pdf/2601.20756), preprint.
+Denker A, Hertrich J, Neumayer S [*A Stability Benchmark of Generative Regularizers for Inverse Problems*](https://arxiv.org/abs/2605.10076), preprint.
 
-Webber G, Denker A, Barbano R, Reader A J [*Solving Inverse Problems with Flow-based Models via Model Predictive Control*](https://www.arxiv.org/abs/2601.23231), preprint.
+Rowbottom J, Baker E, Huang N, Adcock B, Schönlieb C-B, Denker A [*GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains*](https://arxiv.org/abs/2605.03497), preprint.
 
-Denker A, Eliasof M, Kereta Z, Schönlieb CB [*Trajectory Stitching for Solving Inverse Problems with Flow-Based Models*](https://arxiv.org/abs/2602.08538), preprint. 
+Baker E, Denker A, Frellsen J [*Supervised Guidance Training for Infinite-Dimensional Diffusion Models*](https://arxiv.org/pdf/2601.20756), accepted at ICML 2026.
+
+Webber G, Denker A, Barbano R, Reader A J [*Solving Inverse Problems with Flow-based Models via Model Predictive Control*](https://www.arxiv.org/abs/2601.23231), accepted at ICML 2026.
+
+Denker A, Kereta Z, Schönlieb C-B, Eliasof M [*Trajectory Stitching for Solving Inverse Problems with Flow-Based Models*](https://arxiv.org/abs/2602.08538), accepted at ICML 2026. 
 
 Barbano R, Denker A, Kereta Z, Li R, Vargas F [*CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control*](https://openreview.net/forum?id=XJto8p5maC), ReALM-GEN 2026 - ICLR 2026 Workshop.
+
+Arridge S, Barbano R, Denker A, Kereta Z [*Deep Image Prior for Computed Tomography Reconstruction*](https://arxiv.org/abs/2602.14709), preprint.
 
 ### 2025
 
