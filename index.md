@@ -11,7 +11,7 @@ I am a post doctoral researcher at DESY working with Martin Burger. Previously, 
 
 ### 2026 
 
-Barbano R, Pauline V, Li R, Webber G, Denker A, Kereta Z, Bauer S, Vargas F, Whitammer E [*One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control*](https://openreview.net/forum?id=MNXa7CQX9T), accepted at STODY at NeurIPS 2026.
+Barbano R, Pauline V, Li R, Webber G, Denker A, Kereta Z, Bauer S, Vargas F, Whitammer E [*One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control*](https://openreview.net/forum?id=Xc1AxJjqi5), accepted at GDDL at NeurIPS 2026.
 
 Denker A, Padhy S, Vargas F, Hertrich J [*Iterative Importance Fine-tuning of Diffusion Models*](https://arxiv.org/abs/2502.04468), accepted at SIAM Journal on Imaging Sciences (SIIMS).
 
